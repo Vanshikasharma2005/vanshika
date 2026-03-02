@@ -1,2 +1,2 @@
 this is begins..!!
-let's try to solve puzzel(BYOG)
+lets try to solve puzzel(BYOG
